@@ -1,0 +1,3 @@
+C:\Users\MINEDUCYT\source\repos\PARCIAL 2\PARCIAL 2\obj\Debug\PARCIAL 2.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\PARCIAL 2\PARCIAL 2\obj\Debug\PARCIAL 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MINEDUCYT\source\repos\PARCIAL 2\PARCIAL 2\obj\Debug\PARCIAL 2.csproj.CoreCompileInputs.cache
